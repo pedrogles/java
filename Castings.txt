@@ -1,0 +1,15 @@
+Casting/Conversão:
+int idade1 = 22; 
+double idade2 = idade1; // transforma idade1 em double.
+
+idade1 = (int) idade2; // recebe o valor de idade2 e transforma em inteiro
+
+char letra = 'a';
+String nome = String.valueOf(letra) // transforma de char para String.
+
+letra = nome.charAt(0); // transforma string em char
+
+String nome2 = String.valueOf(idade1); // transforma inteiro em string.
+
+idade1 = Integer.parseInt(nome2); // transforma string em inteiro
+

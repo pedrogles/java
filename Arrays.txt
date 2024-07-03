@@ -1,0 +1,12 @@
+Arrays:
+- Estáticos
+int[] list = new int[10];
+int[] list = {1, 2, 3};
+int length = list.length;
+
+- Dinâmico:
+ArrayList<Integer> list = new ArrayList<>();
+list.add(14);
+list.get(0);
+list.size();
+list.remove[0];

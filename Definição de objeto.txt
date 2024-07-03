@@ -1,0 +1,1 @@
+Objeto: Forma de representação de coisas ou conceitos no contexto de um programa.

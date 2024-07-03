@@ -1,0 +1,10 @@
+*Tipos de variaveis:
+ - byte: 8 bytes
+ - short: 16 bytes
+ - int: 32 bytes
+ - long: 64 bytes
+ - boolean: true/false
+ - char: caracteres
+ - String: é uma classe e não tipo primitivo
+ - double: Armazena mais numeros depois da virgula
+ - float: Menos precisão em relação ao double
